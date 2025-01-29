@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 👩‍💻 I enjoy working on open-source projects.
-- 💬 Ask me about web development, Python, and JavaScript.
 - 📫 How to reach me: 24rmstech24@gmail.com
 
  🛠️ Technologies & Tools
