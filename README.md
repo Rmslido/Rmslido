@@ -6,7 +6,7 @@ Je suis Elido RAMIANDRISOA, un développeur passionné par l'innovation et l'app
 
 👨‍💻 Passionné par l’open source, j’adore partager mes connaissances et collaborer avec la communauté pour développer des solutions innovantes.
 
-📫 Une idée, un projet ou simplement envie d’échanger ? N’hésitez pas à me contacter : contact@elido-ramiandrisoa.com
+📫 Une idée, un projet ou simplement envie d’échanger ? N’hésitez pas à me contacter : contact@elido-ramiandrisoa.mg
 
 💡 Toujours prêt à apprendre, créer et innover, je suis ouvert aux opportunités et aux nouveaux défis ! 🚀
 
